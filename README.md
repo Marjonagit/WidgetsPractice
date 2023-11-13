@@ -6,10 +6,12 @@ This Flutter project implements Stateless and Stateful Widgets.
 ## How to Run
 You can open the project in your preferred Flutter development environment to run this project.
 
-## File Structure
-- `level_three_widget.dart`: Contains the Level Three Widget code.
-- `counter_widget.dart`: Contains the Counter Widget code.
-- `main.dart`: Entry point for the application.
+## Project Structure
+1. **Stateless Widget - GreetingWidget**
+    - Displays a greeting message passed as a parameter.
+
+2. **Stateful Widget - CounterWidget**
+    - Maintains and displays a counter, incrementing upon button press.
 
 ## Contributor
 - **Name**: Marjona Rakhmatilleva
