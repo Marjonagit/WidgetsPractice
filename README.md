@@ -26,8 +26,8 @@ To run this project:
    - Contains `CounterWidget` for counting.
 
 ## Contributor
-- **Name**: Your Name
-- **Group**: Your Group
-- **ID**: Your ID
+- **Name**: Marjona Rakhmatilleva
+- **Group**: JSE02
+- **ID**: 2110...
 
 Feel free to customize this README with more specific details about your project, its features, and any additional functionality or instructions. This document aims to provide an overview of your project structure and functionality.
