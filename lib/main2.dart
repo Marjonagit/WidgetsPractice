@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Stateful Widget Test'),
+          title: Text('Count as many as you wish! Happy incrementing:)'),
         ),
         body: Center(
           child: CounterWidget(),
